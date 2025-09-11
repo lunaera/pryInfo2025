@@ -1,0 +1,8 @@
+/*
+Raul Munguia Pedro
+Soy heroico en fri 
+Soy emo
+Me corto las venas
+Y locura 
+
+*/
