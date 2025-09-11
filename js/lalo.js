@@ -13,4 +13,4 @@ function mostrarPresentacion() {
 
 mostrarPresentacion();
 
-
+console.log("¿Sabías que la amabilidad puede mejorar tu día y el de los demás?");
