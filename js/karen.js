@@ -1,3 +1,3 @@
-/*karen magali ruiz lopez
-esta es una practica
+/*Karen Magali Ruiz Lopez
+esta es una nueva practica 
 */
