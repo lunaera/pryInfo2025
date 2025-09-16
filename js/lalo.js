@@ -21,3 +21,6 @@ function saludar() {
 // Ejecutar funciones
 mostrarPresentacion();
 saludar();
+
+
+console.log("Actividad lograda!!");

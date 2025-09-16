@@ -11,3 +11,6 @@ let x = 4;
 let y = 8;
 
 let area = (x * y);
+
+
+console.log("Actividad lograda!!");
