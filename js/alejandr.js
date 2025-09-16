@@ -1,5 +1,6 @@
 /*
-Irving Uriel Lopez Galvan
+Alberto Alejandro Morales Caballero
 */
+
 
 console.log("Actividad lograda!!");

@@ -1,5 +1,4 @@
-/*
-Irving Uriel Lopez Galvan
-*/
+/*ñam ñam*/
+
 
 console.log("Actividad lograda!!");

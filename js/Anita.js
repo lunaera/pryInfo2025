@@ -4,3 +4,5 @@ Amo a los gatos
 */
 
 // calificación 100%
+
+console.log("Actividad lograda!!");
