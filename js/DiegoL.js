@@ -5,3 +5,6 @@ document.getElementById("btnSaludo").addEventListener(
     }
 );
 //veamos si esto funciona
+
+
+// actividad calificada !! felicidades
