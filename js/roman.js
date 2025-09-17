@@ -4,6 +4,10 @@ Identificate: Soy Roman
 numero de control:23920255
 */
 
+/*
+AMO EL CAFE
+*/
+
 
 // Solicita el nombre del usuario
 let nombre = prompt("¿Cuál es tu nombre?");
