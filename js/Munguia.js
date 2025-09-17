@@ -6,3 +6,5 @@ Me corto las venas
 Y locura 
 
 */
+
+console.log("Actividad lograda!!");
