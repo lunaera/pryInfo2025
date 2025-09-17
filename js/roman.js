@@ -18,3 +18,6 @@ if (nombre) {
 } else {
     alert("No ingresaste ningún nombre.");
 }
+
+
+// actiividad calificada!!
