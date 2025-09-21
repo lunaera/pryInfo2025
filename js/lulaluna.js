@@ -34,3 +34,5 @@ console.log(multiplicacion(5, 6));
 // Ejemplo de un array
 const numeros = [1, 2, 3, 4, 5];
 console.log(numeros);
+
+// se añadió un comentario final
